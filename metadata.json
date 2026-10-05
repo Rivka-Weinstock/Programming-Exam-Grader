@@ -1,0 +1,6 @@
+{
+  "name": "Programming Exam Grader",
+  "description": "Intelligent grading system for handwritten programming exam answers with EasyOCR, rubric enforcement, visual bounding box annotations, and lecturer override controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
